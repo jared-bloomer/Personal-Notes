@@ -14,6 +14,7 @@ Italics         ``* *`` or ``_ _``          ``_This text is italicized_``       
 Strikethrough   ``~~ ~~``                   ``~~This was mistaken text~~``              :strike: `This was mistaken text`
 Subscript       ``<sub> </sub>``            ``This is a <sub>subscript</sub> text``     :raw-html: `This is a <sub>subscript</sub> text`
 Superscript     ``<sup> </sup>``            ``This is a <sup>superscript</sup> text``   :raw-html: `This is a <sup>superscript</sup> text`
+==========      =========                   =======                                     ======
 
 
 Callouts

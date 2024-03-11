@@ -8,7 +8,7 @@ Text Formatting
 Callouts
 --------
 
-Documentation on this feature can be found `here <https://github.com/orgs/community/discussions/16925>`_`
+Documentation on this feature can be found `here <https://github.com/orgs/community/discussions/16925>`_
 
 .. image:: _static/callouts.png
 

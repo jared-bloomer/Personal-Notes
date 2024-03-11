@@ -10,7 +10,7 @@ Callouts
 
 Documentation on this feature can be found [here](https://github.com/orgs/community/discussions/16925)
 
-.. image:: _static/github/callouts.png
+.. image:: _static/callouts.png
 
 .. code::
 

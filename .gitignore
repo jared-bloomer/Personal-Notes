@@ -1,3 +1,4 @@
 docs/.venv
+docs/venv
 docs/build
 .vscode

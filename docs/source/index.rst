@@ -9,3 +9,5 @@ A repository of personal notes for Jared Bloomer.
 .. toctree::
    :maxdepth: 1
    :hidden:
+
+    github/index

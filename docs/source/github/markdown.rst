@@ -8,34 +8,23 @@ Text Formatting
 Callouts
 --------
 
-[!NOTE]  
-Highlights information that users should take into account, even when skimming.
+Documentation on this feature can be found [here](https://github.com/orgs/community/discussions/16925)
 
-[!TIP]
-Optional information to help a user be more successful.
+.. image:: _static/github/callouts.png
 
-[!IMPORTANT]  
-Crucial information necessary for users to succeed.
+.. code::
 
-[!WARNING]  
-Critical content demanding immediate user attention due to potential risks.
+    [!NOTE]  
+    Highlights information that users should take into account, even when skimming.
 
-[!CAUTION]
-Negative potential consequences of an action.
+    [!TIP]
+    Optional information to help a user be more successful.
 
-```
-[!NOTE]  
-Highlights information that users should take into account, even when skimming.
+    [!IMPORTANT]  
+    Crucial information necessary for users to succeed.
 
-[!TIP]
-Optional information to help a user be more successful.
+    [!WARNING]  
+    Critical content demanding immediate user attention due to potential risks.
 
-[!IMPORTANT]  
-Crucial information necessary for users to succeed.
-
-[!WARNING]  
-Critical content demanding immediate user attention due to potential risks.
-
-[!CAUTION]
-Negative potential consequences of an action.
-```
+    [!CAUTION]
+    Negative potential consequences of an action.

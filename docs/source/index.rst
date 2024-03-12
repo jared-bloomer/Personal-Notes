@@ -11,3 +11,4 @@ A repository of personal notes for Jared Bloomer.
    :hidden:
 
    github/index
+   guides/index

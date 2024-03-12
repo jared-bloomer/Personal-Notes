@@ -40,3 +40,21 @@ Documentation on this feature can be found `here <https://github.com/orgs/commun
 
     [!CAUTION]
     Negative potential consequences of an action.
+
+Badges
+------
+
+More Advanced Documentation can be found [here](https://daily.dev/blog/readme-badges-github-workflow-status-indicators)
+
+For Licensing Badges, go [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+
+===============         =======================================================================================================================   =======================================================================================================
+Badges                  Markdown                                                                                                                  Output
+===============         =======================================================================================================================   =======================================================================================================
+Workflow Status         ``![Github Pages](https://github.com/jared-bloomer/Personal-Notes/actions/workflows/github-pages.yml/badge.svg)``         .. image:: https://github.com/jared-bloomer/Personal-Notes/actions/workflows/github-pages.yml/badge.svg
+Code Coverage           ``[![Coverage](https://img.shields.io/badge/Coverage-83%25-brightgreen.svg)](https://my-app.com/coverage/report.html)``   .. image:: https://img.shields.io/badge/Coverage-83%25-brightgreen.svg
+License                 ``[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)``    .. image:: https://img.shields.io/badge/License-Apache_2.0-blue.svg
+Contributors            ``![Contributors](https://img.shields.io/github/contributors/jared-bloomer/Personal-Notes)``                              .. image:: https://img.shields.io/github/contributors/jared-bloomer/Personal-Notes
+Issues                  ``![Issues](https://img.shields.io/github/issues/jared-bloomer/Personal-Notes?color=0088ff)``                             .. image:: https://img.shields.io/github/issues/jared-bloomer/Personal-Notes?color=0088ff
+Pull Request            ``![Pull Request](https://img.shields.io/github/issues-pr/jared-bloomer/Personal-Notes?color=0088ff)``                    .. image:: https://img.shields.io/github/issues-pr/jared-bloomer/Personal-Notes?color=0088ff
+===============         =======================================================================================================================   =======================================================================================================

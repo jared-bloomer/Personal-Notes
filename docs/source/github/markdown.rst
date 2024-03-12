@@ -44,9 +44,9 @@ Documentation on this feature can be found `here <https://github.com/orgs/commun
 Badges
 ------
 
-More Advanced Documentation can be found [here](https://daily.dev/blog/readme-badges-github-workflow-status-indicators)
+More Advanced Documentation can be found here `<https://daily.dev/blog/readme-badges-github-workflow-status-indicators>`_
 
-For Licensing Badges, go [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+For Licensing Badges, go `here <https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba>`_
 
 ===============         =======================================================================================================================   =======================================================================================================
 Badges                  Markdown                                                                                                                  Output

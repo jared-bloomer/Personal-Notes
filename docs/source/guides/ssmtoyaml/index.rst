@@ -8,6 +8,13 @@ Documentation can be found `here <https://pkg.go.dev/gitlab.com/dkub/ssmtoyaml#s
 Installation
 ------------
 
+1. Ensure go is installed on your system. 
+2. Clone the repository down to your machine (location does not matter)
+   ``git clone https://gitlab.com/dkub/ssmtoyaml.git``
+3. cd into the cloned directory
+4. run the command ``go build``
+5. Move the file ``ssmtoyaml`` to wherever you wish to store the executable
+
 
 Usage
 -----

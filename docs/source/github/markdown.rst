@@ -20,7 +20,7 @@ Superscript     ``<sup> </sup>``            ``This is a <sup>superscript</sup> t
 Callouts
 --------
 
-Documentation on this feature can be found `here <https://github.com/orgs/community/discussions/16925>`_
+Documentation on this feature can be found in the `Github Discussions <https://github.com/orgs/community/discussions/16925>`_
 
 .. image:: _static/callouts.png
 
@@ -44,9 +44,9 @@ Documentation on this feature can be found `here <https://github.com/orgs/commun
 Badges
 ------
 
-More Advanced Documentation can be found here `<https://daily.dev/blog/readme-badges-github-workflow-status-indicators>`_
+More Advanced Documentation can be found `here <https://daily.dev/blog/readme-badges-github-workflow-status-indicators>`_
 
-For Licensing Badges, go `here <https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba>`_
+For Licensing Badges, go view them on this `Github gist <https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba>`_
 
 ===============         =======================================================================================================================   =======================================================================================================
 Badges                  Markdown                                                                                                                  Output

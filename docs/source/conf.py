@@ -53,8 +53,8 @@ master_doc = 'index'
 
 html_favicon = 'favicon.ico'
 
-version = u''
-release = u''
+version = u'latest'
+release = u'latest'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'

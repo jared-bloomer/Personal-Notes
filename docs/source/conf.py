@@ -24,8 +24,10 @@ from urllib.parse import urlparse
 
 project = 'Personal Notes'
 copyright = u'2023-%s, Jared Bloomer. Last built %s' % \
-    datetime.now().year\
+    (
+    datetime.now().year,
     datetime.now().strftime('%A, %B %d, %Y')
+    )
 if os.environ.get('GIT_COMMIT', None) is not None:
     copyright += u' from %s' % os.environ['GIT_COMMIT']
 author = 'Jared Bloomer'

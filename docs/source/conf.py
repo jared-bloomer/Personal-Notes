@@ -32,6 +32,9 @@ if os.environ.get('GIT_COMMIT', None) is not None:
     copyright += u' from %s' % os.environ['GIT_COMMIT']
 author = 'Jared Bloomer'
 
+version = u'latest'
+release = u'latest'
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -40,6 +43,7 @@ author = 'Jared Bloomer'
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
+    'sphinx.ext.autodoc',
     'sphinx.ext.todo',
     'sphinx.ext.intersphinx',
     'myst_parser',
@@ -53,11 +57,9 @@ exclude_patterns = []
 
 source_suffix = '.rst'
 master_doc = 'index'
+language = 'en'
 
 html_favicon = 'favicon.ico'
-
-version = u'latest'
-release = u'latest'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -142,3 +144,23 @@ texinfo_documents = [
      author, project, 'Personal Notes I have gathered for reference.',
      'Miscellaneous'),
 ]
+
+# -- Options for Epub output -------------------------------------------------
+
+# Bibliographic Dublin Core info.
+epub_title = project
+
+# The unique identifier of the text. This can be a ISBN number
+# or the project homepage.
+#
+# epub_identifier = ''
+
+# A unique identification for the text.
+#
+# epub_uid = ''
+
+# A list of files that should not be packed into the epub file.
+epub_exclude_files = ['search.html']
+
+
+# -- Extension configuration -------------------------------------------------

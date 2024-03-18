@@ -23,7 +23,8 @@ from urllib.parse import urlparse
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Personal Notes'
-copyright = u'2023-2024, Jared Bloomer. Last built %s' % \
+copyright = u'2023-%s, Jared Bloomer. Last built %s' % \
+    datetime.now().year\
     datetime.now().strftime('%A, %B %d, %Y')
 if os.environ.get('GIT_COMMIT', None) is not None:
     copyright += u' from %s' % os.environ['GIT_COMMIT']

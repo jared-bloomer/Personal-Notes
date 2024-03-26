@@ -75,3 +75,4 @@ ____________________
 Additional Resources
 --------------------
 
+Proxmox documentation for ``subscription`` and ``no-subscription``, as well as ``Ceph`` can be found at the `Proxmox repositories page <https://pve.proxmox.com/wiki/Package_Repositories>`_ 

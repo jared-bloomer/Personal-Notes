@@ -19,11 +19,6 @@ _____________
 
 * `developer.hashicorp.com <https://developer.hashicorp.com/terraform?ajs_aid=542845ce-a667-472f-ba97-29dc1042894b&product_intent=terraform>`_
 
-Life Cycle Support
-__________________
-
-* 
-
 Installation
 ------------
 

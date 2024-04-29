@@ -18,3 +18,10 @@ __________________________
 Adding New Templates
 ____________________
 
+1. Upload your Templates to your remarkable2 tablet
+``scp <TEMPLATE>.png root@<IP of Remarkable2>:/usr/share/remarkable/templates/.``
+2. SSH to your Remarkable2 table
+``ssh root@<IP of Remarkable2>``
+3. Run the ``templatectl`` command to import the template you uploaded. And example of this would be for a template file named ``ICS-214_pg1.png``
+``./templatectl add -c Custom -f templates/ICS-214_pg1.png -i e9a0 -n ICS-214_pg1``
+4. Restart your Remarkable2 tablet

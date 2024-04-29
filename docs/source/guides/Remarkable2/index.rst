@@ -3,6 +3,8 @@ Remarkable2
 
 Remarkable does not officially support custom templates. When you sync documents to your remarkable app you will NOT see your custom templates. If you email the document from your remarkable2 to yourself, it will contain the template. Also after your Remarkable2 installs any updates, your custom templates may disappear and need to be reinstalled. 
 
+Templates should be created as a png with the resolution of 1404 × 1872 px. 
+
 Managing Custom Templates
 -------------------------
 

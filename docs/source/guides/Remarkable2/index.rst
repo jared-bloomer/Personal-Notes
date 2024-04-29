@@ -32,4 +32,6 @@ ____________________
 
 ``./templatectl add -c Custom -f templates/ICS-214_pg1.png -i e9a0 -n ICS-214_pg1``
 
-4. Restart your Remarkable2 tablet
+4. Restart your Remarkable2 tablet, or restart the ``xochitl`` service.
+
+``systemctl restart xochitl``

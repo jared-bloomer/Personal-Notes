@@ -6,3 +6,4 @@ Guides
 
    Proxmox/index
    shell_hacks/index
+   Remarkable2/index

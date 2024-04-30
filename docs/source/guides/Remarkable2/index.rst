@@ -35,3 +35,11 @@ ____________________
 4. Restart your Remarkable2 tablet, or restart the ``xochitl`` service.
 
 ``systemctl restart xochitl``
+
+Icon Codes
+__________
+
+Here is a quick reference for the default Icon Codes used by templates on the Remarkable2 tablets
+
+.. image:: _static/rm-2.3.0.16-icon-codes.png
+

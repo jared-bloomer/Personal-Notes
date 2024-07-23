@@ -13,3 +13,4 @@ A repository of personal notes for Jared Bloomer.
    github/index
    guides/index
    tools/index
+   EOLMatrix

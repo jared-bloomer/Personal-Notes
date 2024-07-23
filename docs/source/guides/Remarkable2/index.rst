@@ -14,6 +14,7 @@ To Install ``templatectl``
 __________________________
 
 1. Go to the `release page <https://github.com/PeterGrace/templatectl/releases>`_ of the repo, and download the ``templatectl`` file to your machine. 
+
 2. You then want to upload this file to your remarkable2 tablet. You can use scp to do this 
 ``scp templatectl root@<IP Address of your Remarkable2>:/home/root/.``
 
